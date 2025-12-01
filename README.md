@@ -1,2 +1,8 @@
 # RealEstateAdvisor
-data ,notebooks ,src, streamlit_app, models reports
+│-- data/
+│-- notebooks/
+│-- src/
+│-- streamlit_app/
+│-- models/
+│-- reports/
+
